@@ -1,4 +1,4 @@
-# boss-fight ⚔️
+# boss-fight
 
 A single, hard, Souls-like boss fight in one Python file. Dodge, hit, heal — and don't die.
 
